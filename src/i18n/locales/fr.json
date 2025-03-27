@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "about": "À Propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Taibi El Yakouti",
+    "subtitle": "Analyste de Données | Passionné d'IA & Robotique | Ingénieur Logiciel",
+    "viewWork": "Voir Mes Projets",
+    "downloadCV": "Télécharger CV"
+  },
+  "about": {
+    "title": "À Propos",
+    "description": "Passionné par l'analyse de données, l'IA et la robotique, avec une expertise en visualisation de données, apprentissage automatique et automatisation. Je me spécialise dans Power BI, Python, SQL, R et les outils ETL comme Talend, tout en participant activement à des compétitions de robotique et en encadrant des étudiants.",
+    "timeline": {
+      "student": {
+        "title": "Étudiant en Analyse de Données",
+        "description": "Étudiant en deuxième année à la Cité des Métiers et des Compétences (CMC)"
+      },
+      "engineering": {
+        "title": "Programme d'Ingénierie Logicielle",
+        "description": "Formation intensive en développement full-stack"
+      },
+      "robotics": {
+        "title": "Succès en Compétition de Robotique",
+        "description": "Victoires multiples en compétitions nationales de robotique"
+      }
+    },
+    "downloadCV": "Télécharger CV"
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "description": "Une vitrine de mon travail en analyse de données, robotique et plus",
+    "categories": {
+      "all": "Tous",
+      "data_analysis": "Analyse de Données",
+      "data_visualization": "Visualisation de Données",
+      "robotics": "Robotique",
+      "automation": "Automatisation"
+    },
+    "viewDetails": "Voir les Détails",
+    "viewCode": "Voir le Code",
+    "liveDemo": "Démo en Direct",
+    "technologies": "Technologies"
+  },
+  "skills": {
+    "title": "Compétences & Expertise",
+    "description": "Mes compétences techniques et domaines d'expertise en analyse de données, programmation et robotique",
+    "categories": {
+      "dataAnalysis": "Analyse de Données & BI",
+      "programming": "Programmation & Développement",
+      "robotics": "IA & Robotique",
+      "design": "Design Graphique"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "description": "Services professionnels adaptés à vos besoins",
+    "mentoring": {
+      "title": "Mentorat",
+      "description": "Accompagnement expert en robotique, programmation et analyse de données",
+      "features": [
+        "Sessions de mentorat individuelles",
+        "Apprentissage par projets",
+        "Développement des compétences techniques",
+        "Orientation professionnelle"
+      ]
+    },
+    "design": {
+      "title": "Services de Design",
+      "description": "Design UI/UX professionnel et création de contenu visuel",
+      "features": [
+        "Design UI/UX avec Figma",
+        "Design d'identité de marque",
+        "Création de contenu visuel",
+        "Développement de système de design"
+      ]
+    },
+    "consultancy": {
+      "title": "Conseil",
+      "description": "Conseil technique stratégique pour entreprises et particuliers",
+      "features": [
+        "Planification stratégique technique",
+        "Automatisation des processus",
+        "Solutions d'analyse de données",
+        "Optimisation de la pile technologique"
+      ]
+    }
+  },
+  "timeline": {
+    "title": "Parcours & Chronologie",
+    "description": "Mon parcours à travers l'éducation, le travail et les réalisations",
+    "viewDetails": "Cliquez pour voir les détails",
+    "details": "Détails",
+    "showMore": "Voir Plus",
+    "showLess": "Voir Moins",
+    "period": "Période",
+    "education": "Formation",
+    "work": "Expérience",
+    "achievement": "Réalisation"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Collaborons sur des projets d'analyse de données, de robotique ou d'automatisation",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "send": "Envoyer"
+    },
+    "connect": "Me Contacter",
+    "phone": "Téléphone",
+    "email": "Email"
+  }
+}

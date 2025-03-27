@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Taibi El Yakouti",
+    "subtitle": "Data Analyst | AI & Robotics Enthusiast | Software Engineer",
+    "viewWork": "View My Work",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Passionate about data analytics, AI, and robotics, with expertise in data visualization, machine learning, and automation. I specialize in Power BI, Python, SQL, R, and ETL tools like Talend, while actively participating in robotics competitions and mentoring students.",
+    "timeline": {
+      "student": {
+        "title": "Data Analysis Student",
+        "description": "Second-year student at City of Trades and Skills (CMC)"
+      },
+      "engineering": {
+        "title": "Software Engineering Program",
+        "description": "Intensive training in full-stack development"
+      },
+      "robotics": {
+        "title": "Robotics Competition Success",
+        "description": "Won multiple national robotics competitions"
+      }
+    },
+    "downloadCV": "Download CV"
+  },
+  "projects": {
+    "title": "My Projects",
+    "description": "A showcase of my work in data analysis, robotics, and more",
+    "categories": {
+      "all": "All",
+      "data_analysis": "Data Analysis",
+      "data_visualization": "Data Visualization",
+      "robotics": "Robotics",
+      "automation": "Automation"
+    },
+    "viewDetails": "View Details",
+    "viewCode": "View Code",
+    "liveDemo": "Live Demo",
+    "technologies": "Technologies"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "description": "My technical skills and areas of expertise in data analysis, programming, and robotics",
+    "categories": {
+      "dataAnalysis": "Data Analysis & BI",
+      "programming": "Programming & Development",
+      "robotics": "AI & Robotics",
+      "design": "Graphic Design"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "description": "Professional services tailored to your needs",
+    "mentoring": {
+      "title": "Mentoring",
+      "description": "Expert guidance in robotics, programming, and data analytics",
+      "features": [
+        "One-on-one mentoring sessions",
+        "Project-based learning",
+        "Technical skill development",
+        "Career guidance"
+      ]
+    },
+    "design": {
+      "title": "Design Services",
+      "description": "Professional UI/UX design and visual content creation",
+      "features": [
+        "UI/UX Design with Figma",
+        "Brand identity design",
+        "Visual content creation",
+        "Design system development"
+      ]
+    },
+    "consultancy": {
+      "title": "Consultancy",
+      "description": "Strategic technical consulting for businesses and individuals",
+      "features": [
+        "Technical strategy planning",
+        "Process automation",
+        "Data analysis solutions",
+        "Technology stack optimization"
+      ]
+    }
+  },
+  "timeline": {
+    "title": "Roadmap & Timeline",
+    "description": "My journey through education, work, and achievements",
+    "viewDetails": "Click to view details",
+    "details": "Details",
+    "showMore": "See More",
+    "showLess": "Show Less",
+    "period": "Period",
+    "education": "Education",
+    "work": "Work",
+    "achievement": "Achievement"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Let's collaborate on data analysis, robotics, or automation projects",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "connect": "Connect with me",
+    "phone": "Phone",
+    "email": "Email"
+  }
+}
