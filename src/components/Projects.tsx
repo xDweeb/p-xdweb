@@ -20,7 +20,7 @@ const projects = [
     id: 2,
     title: 'Finance Dashboard',
     description: 'Interactive Power BI dashboard for financial analysis',
-    image: '/src/assets/5.png',
+    image: '/public/5.png',
     category: 'Data Visualization',
     technologies: ['Power BI', 'DAX', 'Excel', 'Figma'],
     githubUrl: 'https://github.com/xDweeb/Finance-Dashboard-PowerBi',
