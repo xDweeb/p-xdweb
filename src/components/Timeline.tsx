@@ -58,7 +58,7 @@ const timelineEvents: TimelineEvent[] = [
     icon: GraduationCap,
     category: 'education',
     period: 'May 2023 - Jan 2025',
-    image: '/src/assets/Taibi El Yakouti.png',
+    image: '/public/Taibi El Yakouti.png',
     details: [
       'Learned modern web development technologies',
       'Gained experience in DevOps, cloud infrastructure, and production-grade projects',
