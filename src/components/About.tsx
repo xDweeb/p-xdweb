@@ -40,7 +40,7 @@ const About: React.FC = () => {
 
   const handleDownloadCV = () => {
     // Add your CV download logic here
-    const cvUrl = '/src/assets/TAIBI EL YAKOUTI - DA-CV.pdf'; // Update this with your actual CV URL
+    const cvUrl = '/public/TAIBI EL YAKOUTI - DA-CV.pdf'; // Update this with your actual CV URL
     window.open(cvUrl, '_blank');
   };
 
